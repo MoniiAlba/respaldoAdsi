@@ -1,0 +1,5 @@
+Para salvar errores de merge
+
+1.- git pull
+2.- abrir archivo
+3.- HEAD: lo último que se subió, lo de abajo, lo que está arriba que fue conflictivo. CAMBIAR A MANITA

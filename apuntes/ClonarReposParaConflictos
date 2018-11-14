@@ -1,0 +1,12 @@
+dos veces el repo
+clonar una vez
+mv ejercicio uno
+clonar segunda vez
+mv ejercicio dos
+
+-ya tenemos dos veces el repo en dos carpetas distintas-
+
+cambiamos rama en ambas carpetas con: git checkout RAMA
+en una:
+modificamos, add, commit, push
+en otra los mismo --> ERROR --> Solucionar conflicto
